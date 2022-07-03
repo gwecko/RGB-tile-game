@@ -1,0 +1,72 @@
+body{
+    background-color: #303030;
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1{
+    color: azure;
+    background-color: lightslategray;
+    text-align: center;
+    margin: 0;
+    font-weight: 300;
+    line-height: 1.2;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    color: #303030;
+    font-weight: 600;
+    font-size: inherit;
+    outline: none; /* Chrome leaves a button outline, Safari does not. So this is
+                    just to fix a Chrome issue. */
+}
+
+button:hover{
+    color: azure;
+    background-color: #303030;
+    transition-duration: 300ms;
+}
+
+#colorTextHeader{
+    font-size: 160%;
+}
+
+
+#stripe{
+    background-color: azure;
+    height: 40px;
+    text-align: center;
+}
+
+#message{
+    display: inline-block;
+    font-weight: 900;
+    width: 20%;
+}
+
+.selectedBtn{
+    background-color: #303030;
+    color: azure;
+}
+
+.tile{
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+    border-radius: 10%;
+    transition: background-color 350ms;
+    -webkit-transition: background 350ms;
+    -moz-transition: background 350ms;
+}
+
+#container{
+    margin: 20px auto;
+    max-width: 650px;
+}
