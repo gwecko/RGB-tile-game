@@ -1,0 +1,19 @@
+{
+  "name": "rgb-tile-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwecko/RGB-tile-game.git"
+  },
+  "author": "Grant Wecker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwecko/RGB-tile-game/issues"
+  },
+  "homepage": "https://github.com/gwecko/RGB-tile-game#readme"
+}
