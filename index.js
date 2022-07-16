@@ -1,5 +1,3 @@
-const document = getElementById("document");
-
 var messageDisplay = document.querySelector("#message");
 var h1 = document.querySelector("h1");
 var newGameBtn = document.getElementById("newGame");
